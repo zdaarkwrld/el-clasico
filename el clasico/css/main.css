@@ -8,7 +8,7 @@
 }
 
 body{
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: 'Gill Sans', sans-serif;
 }
 
 nav{background: #201F5F;
@@ -87,14 +87,15 @@ a.active,a:hover{
 
 .el-clasico {
   font-size: 60px; /* Set the font size to 60px */
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: 'Gill Sans', sans-serif;
   color: white;
   margin: 0;
 }
 
 .ultimate {
   font-size: 60px; /* Set the font size to 60px */
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: 'Gill Sans', sans-serif;
   color: white;
   margin: 0;
+  
 }
